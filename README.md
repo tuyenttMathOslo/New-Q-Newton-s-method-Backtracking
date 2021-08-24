@@ -1,6 +1,6 @@
 # New-Q-Newton-s-method-Backtracking
  
-This is Python source code for the paper "New Q-Newton's method meets Backtracking line search ...", arXiv:... by Tuyen Trung Truong, in which New Q-Newton's method Backtracking is proposed. You can run functionsDirectRun7.py, proteinV2.py and StochasticGriewank2.py to test the method.  
+This is Python source code for the paper "New Q-Newton's method meets Backtracking line search: good convergence guarantee, saddle points avoidance, quadratic rate of convergence, and easy implementation", arXiv:2108.10249 by Tuyen Trung Truong, in which New Q-Newton's method Backtracking is proposed. You can run functionsDirectRun7.py, proteinV2.py and StochasticGriewank2.py to test the method.  
 
 This is a new second order method, which incorporates Backtracking line search into New Q-Newton's method. The latter is developed in previous work by  T. T. Truong, T. D. To,  H.-T. Nguyen, T. H. Nguyen, H. P. Nguyen and M. Helmy, "A fast and simple modification of quasi-Newton's methods helping to avoid saddle points", arXiv:2006.01512. 
 
